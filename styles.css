@@ -8,6 +8,12 @@ h1{
 	font-family: "Garamond"
 }
 
+h3{
+	color: #725050;
+	font-size:19px;
+}
+
+
 a{
 	font-size:20px;
 	color: green;
@@ -17,10 +23,16 @@ a{
 	font-size:20px;
 }
 
-ul {
+ul#courses {
   list-style-type: none;
 }
 
 #resume{
 	text-align: left;
+	padding: 0 0 0 50px;
+	font-size: 17px;
+}
+
+.org{
+	font-weight: bold;
 }
